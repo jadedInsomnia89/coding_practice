@@ -2,7 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "LeetCode Practice Problems",
+			"path": "./leet_code_problems"
 		}
 	],
-	"settings": {}
+	"settings": {
+		
+	}
 }
